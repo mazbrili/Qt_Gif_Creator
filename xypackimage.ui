@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>打包GIF</string>
+   <string>GIF Packing</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -58,7 +58,7 @@
        <item alignment="Qt::AlignHCenter">
         <widget class="QLabel" name="label_2">
          <property name="text">
-          <string>宽：</string>
+          <string>Width：</string>
          </property>
         </widget>
        </item>
@@ -78,7 +78,7 @@
        <item alignment="Qt::AlignHCenter">
         <widget class="QLabel" name="label_3">
          <property name="text">
-          <string>高：</string>
+          <string>Height：</string>
          </property>
         </widget>
        </item>
@@ -98,7 +98,7 @@
        <item alignment="Qt::AlignHCenter">
         <widget class="QLabel" name="label">
          <property name="text">
-          <string>帧率：</string>
+          <string>Frame rate：</string>
          </property>
         </widget>
        </item>
@@ -166,21 +166,21 @@
        <item>
         <widget class="QPushButton" name="pushButton_2">
          <property name="text">
-          <string>添加图片</string>
+          <string>Add image</string>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QPushButton" name="pushButton_3">
          <property name="text">
-          <string>设置保存位置</string>
+          <string>Specify saving location</string>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QPushButton" name="pushButton">
          <property name="text">
-          <string>打包</string>
+          <string>Packing</string>
          </property>
         </widget>
        </item>
