@@ -89,7 +89,7 @@
        </sizepolicy>
       </property>
       <property name="text">
-       <string>宽：</string>
+       <string>Width：</string>
       </property>
      </widget>
     </item>
@@ -109,7 +109,7 @@
        </sizepolicy>
       </property>
       <property name="text">
-       <string>高：</string>
+       <string>Height：</string>
       </property>
      </widget>
     </item>
@@ -129,7 +129,7 @@
        </sizepolicy>
       </property>
       <property name="text">
-       <string>帧率：</string>
+       <string>Framerate：</string>
       </property>
      </widget>
     </item>
@@ -167,28 +167,28 @@
     <item>
      <widget class="QPushButton" name="img">
       <property name="text">
-       <string>打包图片为GIF</string>
+       <string>Pack picture as GIF</string>
       </property>
      </widget>
     </item>
     <item>
      <widget class="QPushButton" name="save">
       <property name="text">
-       <string>设置保存位置</string>
+       <string>Specify saving location</string>
       </property>
      </widget>
     </item>
     <item>
      <widget class="QPushButton" name="gif">
       <property name="text">
-       <string>开始录制</string>
+       <string>Start Record</string>
       </property>
      </widget>
     </item>
     <item>
      <widget class="QPushButton" name="quit">
       <property name="text">
-       <string>退出</string>
+       <string>Exit</string>
       </property>
      </widget>
     </item>
